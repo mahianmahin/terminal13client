@@ -5,7 +5,7 @@ import subprocess
 
 import requests
 
-url = "terminal13hax.pythonanywhere.com/api/"
+url = "http://terminal13hax.pythonanywhere.com/api/"
 
 state = {
     'old_command' : ''
